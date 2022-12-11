@@ -5,3 +5,6 @@
 4. Adjust paragraph make font smaller and lower conrast
 5. Adjust the sign up button (change background color, text color)
 6. Adjust image and set limits */
+* {
+    font-family: 'Roboto', sans-serif;
+}
