@@ -12,6 +12,8 @@ header {
     display: flex;
     background-color: #1f2937;
     color: #F9FAF8;
+    justify-content: space-between;
+    padding: 8px;
 }
 ul {
     list-style: none;
@@ -24,10 +26,12 @@ a {
     color: inherit;
 }
 .logo {
-
+    font-weight: bold;
 }
 .rightLinks {
-
+    display: flex;
+    align-items: center;
+    gap: 16px;
 }
 .heroText {
 
