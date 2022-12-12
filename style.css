@@ -10,7 +10,8 @@
 }
 header {
     display: flex;
-
+    background-color: #1f2937;
+    color: #F9FAF8;
 }
 ul {
     list-style: none;
