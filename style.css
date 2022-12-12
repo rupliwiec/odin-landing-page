@@ -27,15 +27,14 @@ a {
 }
 .logo {
     font-weight: bold;
+    align-items: center;
 }
 .rightLinks {
     display: flex;
     align-items: center;
     gap: 16px;
 }
-.heroText {
 
-}
 .mainImage {
     display: flex;
     width: 50px;
@@ -44,4 +43,5 @@ main {
     display: flex;
     background-color: #1f2937;
     color: #F9FAF8;
+    text-align: center;
 }
